@@ -27,7 +27,7 @@
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vsc,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linkedin&theme=light" />
   </a>
   </div>
 <br>
@@ -38,15 +38,10 @@
   </div>
 <div align=center>
 <!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
+<a href="https://github.com/Abimael117">
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
     </a>
 </div>
-
-------
-[Anton-dev3306](https://github.com/Anton-dev3306)
-
-Last Edited on: 12/07/2025
