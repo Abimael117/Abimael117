@@ -9,7 +9,7 @@
 <div align="center">
 
 🌱 Actualmente aprendiendo:
-**Backend, AWS, Ciberseguridad y Desarrollo Web**
+**Backend**
 
 💻 Desarrollador Junior apasionado por la tecnología
 
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
 </a>
 
-<br><br>
+<br>
 
 <h3>Backend & Bases de datos</h3>
 
