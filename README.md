@@ -65,6 +65,8 @@ src="https://streak-stats.demolab.com?user=Abimael117&theme=algolia"
 
 <br>
 
+<h1 align="center"></h1>
+
 <div align="center">
 
 "Intentando convertirme en mi mejor versión a través de la tecnología."
