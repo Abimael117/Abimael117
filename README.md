@@ -1,15 +1,14 @@
 <h1 align="center">Hola 👋  soy Abimael ✨ </h1> 
 
 <p align="center"></p>
-<br>
 <h1 align=center>Sobre mi 😃</h1>
 <!--Intro start-->
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack e IA developer
+ 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS COMPUTACIONALES
+💻 Desarrollador Junior
 
-📫 Contacto: **antonioestudiante15@gmail.com**  
+📫 Contacto: **abimaelmendezzacarias@gmail.com**  
 </div>
 
 
@@ -20,19 +19,15 @@
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
-  </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" />
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vsc,linkedin&theme=light" />
   </a>
   </div>
 <br>
@@ -48,10 +43,6 @@
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Anton-dev3306&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
