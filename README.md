@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,mysql&theme=light" />
 </a>
 
-<br><br>
+<br>
 
 <h3>Herramientas</h3>
 
