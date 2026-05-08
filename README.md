@@ -21,7 +21,6 @@
 
 </div>
 
-<br>
 
 <h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
 
