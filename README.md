@@ -14,7 +14,7 @@
 💻 Desarrollador Junior apasionado por la tecnología
 
 🚀 Interesado en:
-**Python, JavaScript, APIs, Cloud y Seguridad Informática**
+**Python y Seguridad Informática**
 
 📫 Contacto:
 **abimaelmendezzacarias@gmail.com**
@@ -38,7 +38,7 @@
 <h3>Backend & Bases de datos</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mysql&theme=light" />
 </a>
 
 <br><br>
